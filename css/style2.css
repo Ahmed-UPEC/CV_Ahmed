@@ -1,0 +1,73 @@
+#contact .div_header h2 {
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+#contact-form {
+    font-size: 20px;
+    background: white;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.blue {
+    color: #d82c2e;
+}
+
+.from-control {
+    height: 50px;
+    font-size: 18px;
+}
+.comments {
+    font-style: italic;
+    font-size: 18px;
+    color: #d82c2e;
+    height: 25px;
+}
+#contact-form input[type=submit] {
+    margin: 40px auto 0;
+    display: block;
+}
+.button-sub {
+    border: 1px solid #ddd;
+    background: #ffa500;
+    color: white;
+    width: 100%;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 18px;
+    border-radius: 5px;
+    transition: all 0.3s;
+}
+
+.button-sub:hover {
+    background: #333333;
+    border-color: #ffa500;
+}
+
+.ty {
+    text-align: center;
+    margin-top: 15px;
+    font-weight: bold;
+    font-size: 22px;
+    color: green;
+}
+
+#contact-form .button_1 {
+    margin-top: 20px;
+    padding: 18px 50px;
+    display: inline-block;
+    text-transform: uppercase;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    transition: all 0.3s;
+    background: rgb(32,121,199); 
+}
+#contact-form .button_1:hover {
+    color: rgb(32,121,199);
+    background: #eee;
+    text-decoration: none;
+}
