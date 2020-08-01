@@ -267,6 +267,17 @@ i {
     color: rgb(32,121,199);
 } 
 
+.covid19-link {
+    color: rgb(32,121,199);
+    font-weight: bold;
+    font-family: 'Roboto', 'Lato', sans-serif;
+}
+
+.covid19-link:hover {
+    text-decoration: none;
+    color: rgb(65, 166, 255);
+}
+
 .block {
     width: 80%;
     margin: 0 auto;
