@@ -278,6 +278,10 @@ i {
     color: rgb(65, 166, 255);
 }
 
+.alphaducentor:hover {
+    color: rgb(65, 166, 255);
+}
+
 .block {
     width: 80%;
     margin: 0 auto;
