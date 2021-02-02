@@ -147,8 +147,8 @@ $(function(){
     })
 
 
-    $("#linkedin-le-lien").click(function(event){
+    /*$("#linkedin-le-lien").click(function(event){
         event.preventDefault()
         alert("Le lien vers le profil LinkedIn n'est pas encore mis en place")
-    })
+    })*/
 })
